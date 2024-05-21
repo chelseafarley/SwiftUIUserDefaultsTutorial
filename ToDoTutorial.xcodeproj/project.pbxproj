@@ -11,6 +11,7 @@
 		5ED5A2442BF591F40050F89F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED5A2432BF591F40050F89F /* ContentView.swift */; };
 		5ED5A2462BF591F50050F89F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5ED5A2452BF591F50050F89F /* Assets.xcassets */; };
 		5ED5A2492BF591F50050F89F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5ED5A2482BF591F50050F89F /* Preview Assets.xcassets */; };
+		5ED5A2502BF592C90050F89F /* TaskViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED5A24F2BF592C90050F89F /* TaskViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5ED5A2432BF591F40050F89F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5ED5A2452BF591F50050F89F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5ED5A2482BF591F50050F89F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5ED5A24F2BF592C90050F89F /* TaskViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				5ED5A2412BF591F40050F89F /* ToDoTutorialApp.swift */,
 				5ED5A2432BF591F40050F89F /* ContentView.swift */,
+				5ED5A24F2BF592C90050F89F /* TaskViewModel.swift */,
 				5ED5A2452BF591F50050F89F /* Assets.xcassets */,
 				5ED5A2472BF591F50050F89F /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5ED5A2442BF591F40050F89F /* ContentView.swift in Sources */,
+				5ED5A2502BF592C90050F89F /* TaskViewModel.swift in Sources */,
 				5ED5A2422BF591F40050F89F /* ToDoTutorialApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
